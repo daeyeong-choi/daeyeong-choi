@@ -45,13 +45,13 @@ Hi, I'm Daeyeong-choi.
   [🔗 More about Project]()
 
 
- - **Warehouse Management system with DoosanRobotics M0609**
-  
+- **Warehouse Management system with DoosanRobotics M0609**
+ 
   auto sorting, stacking, unstacking and stock checking.
-  
+ 
   레고 블록 자동 분류 및 입출고 시스템.
-  
-  [🔗 More about Project]()
+ 
+  [🔗 More about Project](https://github.com/daeyeong-choi/Warehouse-Management-System-with-co-robot)
 
 
 ---  
