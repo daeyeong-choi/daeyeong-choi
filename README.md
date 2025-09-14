@@ -45,6 +45,15 @@ Hi, I'm Daeyeong-choi.
   [🔗 More about Project]()
 
 
+ - **Warehouse Management system with DoosanRobotics M0609**
+  
+  auto sorting, stacking, unstacking and stock checking.
+  
+  레고 블록 자동 분류 및 입출고 시스템.
+  
+  [🔗 More about Project]()
+
+
 ---  
 
 
@@ -61,13 +70,7 @@ Hi, I'm Daeyeong-choi.
   
 
 
-- **Daily Cobot**
-  
-  Automation of daily household tasks using a collaborative robot (M0609) with custom control algorithms.
-  
-  협동로봇(M0609)을 이용해 일상 작업을 자동화하는 제어 알고리즘 개발 프로젝트.
-  
-  [🔗 More about Project](https://github.com/MS0621/Daily_Cobot)
+
 
 
 ---
