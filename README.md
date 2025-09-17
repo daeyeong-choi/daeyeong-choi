@@ -90,9 +90,9 @@ Hi, I'm Daeyeong-choi.
   
 ### GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MS0621&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daeyeong-choi&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MS0621&theme=dark)](https://github.com/MS0621/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daeyeong-choi&theme=dark)](https://github.com/MS0621/github-readme-stats)
 
 ---
 
