@@ -42,7 +42,7 @@ Hi, I'm Daeyeong-choi.
   
   Whisper와 GPT-4 기반의 AI 음성 인터페이스 시스템. 음성 명령을 인식하고 정상 피망과 불량 피망을 수확 및 분류.
   
-  [🔗 More about Project]()
+  [🔗 More about Project](https://github.com/daeyeong-choi/Bellpepper-Harvest-System-with-co-robot/tree/main)
 
 
 - **Warehouse Management system with DoosanRobotics M0609**
