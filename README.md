@@ -36,7 +36,7 @@ Hi, I'm Daeyeong-choi.
 
 ### Co-Robot Projects
 
-- **Bellpeper auto sorting system with DoosanRobotics M0609**
+- **Bellpepper Harvest System with DoosanRobotics M0609**
   
   AI voice-based interface system using Whisper and GPT-4. auto harvest, sorting
   
