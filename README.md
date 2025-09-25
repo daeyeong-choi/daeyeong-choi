@@ -56,37 +56,6 @@ Hi, I'm Daeyeong-choi.
 
 ---  
 
-
-### AMR PROJECTS
-
-- **TurtleBot3 AutoRace**
-  
-  Autonomous driving system using ROS2 and OpenCV for lane detection, curve deceleration, and obstacle avoidance.
-  
-  ROS2와 OpenCV 기반의 자율주행 경로 인식 프로젝트. 차선 추종, 곡선 감속, 장애물 회피 등 기본적인 주행 알고리즘을 구현.
-  
-  [🔗 More about Project](https://github.com/MS0621/turtlebot3_autorace)
-
-  
-
-
-
-
-
----
-
-
-### EMBEDED PROJECT
-
-
-- **Thermometer**
-
-  STM32-based real-time body temperature monitoring system with embedded development.
-  
-  STM32 기반의 체온 측정 임베디드 시스템.
-  
-  [🔗 More about Project]()
-
   
 ### GitHub Stats
 
