@@ -56,6 +56,16 @@ Hi, I'm Daeyeong-choi.
 
 ---  
 
+
+### Embeded Project
+
+- **Thermocar**
+  
+  STM32-based real-time body temperature measuring system with embedded development.
+
+  STM32기반 자동차 모양의 체온계 설계 및 제작.
+  
+  [🔗 More about Project](https://github.com/daeyeong-choi/Thermocar)
   
 ### GitHub Stats
 
